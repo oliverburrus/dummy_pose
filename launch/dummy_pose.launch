@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="dummy_pose" type="dummy_pose.py" name="dummy_pose" output="screen">
+	</node>
+</launch>
